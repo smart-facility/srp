@@ -1,4 +1,4 @@
-function srp
+function srp()
 clc
 clear
 [P,T,validP,validT,testP,testT] = load_data;
