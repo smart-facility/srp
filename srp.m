@@ -1,6 +1,7 @@
 function srp()
 clc
 clear
+% loading different data sets
 [P,T,validP,validT,testP,testT] = load_data;
 
 ex_num = 1;
